@@ -1,6 +1,7 @@
 # 第一、二关：
 ## UI界面如下：<br/>
-![image](https://github.com/goodplayersoga/information_safety/assets/131271841/e4fac698-732e-4387-99c6-118b3edc3843)<br/>
+![image](https://github.com/goodplayersoga/infoSafetyTwo/assets/131271841/224d547a-24a6-481a-8774-6fbdc688b3f9)
+<br/>
 ## 输入明文+秘钥，点击加密即可输出密文，如下：<br/>
 ![image](https://github.com/goodplayersoga/infoSafetyTwo/assets/131271841/949887f9-9b52-4c32-a8bf-95b6915ad322)<br/>
 ## 输入密文和秘钥，点击解密，即可解答出明文，如下：<br/>
